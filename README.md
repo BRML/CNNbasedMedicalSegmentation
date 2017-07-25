@@ -8,7 +8,8 @@ Whenever you use this code, please refer to our publication
   author={Kayalibay, Baris and Jensen, Grady and van der Smagt, Patrick},
   journal={arXiv preprint arXiv:1701.03056},
   year={2017}
-}```
+}
+```
 
 # Requirements:
 

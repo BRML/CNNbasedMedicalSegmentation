@@ -15,7 +15,7 @@ Whenever you use this code, please refer to our publication
 # Requirements:
 
 + Python 2.7
-+ Theano (0.9.0)
++ Theano (0.9.0) (along with [CUDA](https://developer.nvidia.com/cuda-downloads) and [cuDNN](https://developer.nvidia.com/cudnn))
 + [cudamat](https://github.com/cudamat/cudamat)
 + [this fork](https://github.com/bkayalibay/breze) of breze
 + [climin](https://github.com/BRML/climin)

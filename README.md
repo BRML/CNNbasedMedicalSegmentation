@@ -3,7 +3,8 @@
 For any questions or issues, contact Baris via: bkayalibay@gmail.com.
 
 Whenever you use this code, please refer to our publication
-```@article{kayalibay2017cnn,
+```
+@article{kayalibay2017cnn,
   title={CNN-based Segmentation of Medical Imaging Data},
   author={Kayalibay, Baris and Jensen, Grady and van der Smagt, Patrick},
   journal={arXiv preprint arXiv:1701.03056},

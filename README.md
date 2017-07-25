@@ -1,6 +1,14 @@
 **Code for reproducing the results from [our paper on cnn-based medical image segmentation](https://arxiv.org/abs/1701.03056)**
 
-For any questions or issues, contact Baris via: bkayalibay@gmail.com
+For any questions or issues, contact Baris via: bkayalibay@gmail.com.
+
+Whenever you use this code, please refer to our publication
+```@article{kayalibay2017cnn,
+  title={CNN-based Segmentation of Medical Imaging Data},
+  author={Kayalibay, Baris and Jensen, Grady and van der Smagt, Patrick},
+  journal={arXiv preprint arXiv:1701.03056},
+  year={2017}
+}```
 
 # Requirements:
 
